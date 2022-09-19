@@ -1,7 +1,7 @@
 from xml.etree.ElementInclude import include
 
 
-import provaClasse
+import proveDjango.FileACaso.provaClasse as provaClasse
 
 y = provaClasse.Utente("carlo","lucarelli",1234567)
 
