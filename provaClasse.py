@@ -9,3 +9,7 @@ class Utente():
    
     def __str__(self):
         return self.nome + " " + self.cognome + " " + str(self.matricola)
+
+
+if(__name__ == "__main__"):
+    print("ciao")
