@@ -23,4 +23,4 @@ def FuncString(*args):
     return stringa + risultato
 
 
-print(FuncString("il", "sei", "un", "coglione"))
+print(FuncString("il", "risultato", "è", "ciao"))
