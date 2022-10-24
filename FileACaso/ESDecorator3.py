@@ -49,4 +49,4 @@ class ClasseC(object):
 
 c = ClasseC()
 
-ClasseC.g(100)
+c.f(3)

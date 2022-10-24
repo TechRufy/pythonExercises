@@ -12,6 +12,6 @@ class C:
 
 c = C()
 
-c.variabileClasse = 100
+c.variabileIstanza = 100
 
-print(C.variabileClasse)
+print(C.variabileIstanza)
