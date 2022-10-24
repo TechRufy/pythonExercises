@@ -8,9 +8,24 @@ al posto di funz viene invocata la funzione ff della classe ClasseConFF.
 class ClasseConFF:
 
     def ff(self):
-        print("ciao")
+        print("ciao prova ciao")
 
 
-def DecoratorFactory(clsFF, funz, delegate):
+def DecoratorFactory(clsFF, funz):
     def Decorating(cls):
-        pass
+        setattr(cls, funz, clsFF.ff)
+
+        return cls
+
+    return Decorating
+
+
+@DecoratorFactory(ClasseConFF, "boh")
+class Classeprova:
+
+    def boh(self):
+        print("boh")
+
+
+t = Classeprova()
+t.boh()
