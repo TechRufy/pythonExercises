@@ -11,7 +11,6 @@ def DecConvertitore(funz):
                     L.append(int(elem))
                 elif isinstance(elem, int) or isinstance(elem, float):
                     L.append(elem)
-        print(L)
         return funz(*L)
 
     return wrapper
@@ -26,4 +25,4 @@ def somma(*args):
     return tot
 
 
-print(somma([1, 2, 3, 4,"anna",45.5]))
+print(somma([1, 2, 3, 4, "34", 45.5]))

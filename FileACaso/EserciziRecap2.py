@@ -9,7 +9,5 @@ def sommatoria(n):
         yield somma
 
 
-
-
 for i in sommatoria(6):
     print(i)

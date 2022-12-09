@@ -1,0 +1,4 @@
+ "Any classical mathematical algorithm, for example, can be described in a finite number of English words" (Rogers 1987:2).
+ Well defined with respect to the agent that executes the algorithm: "There is a computing agent, usually human, which can react to the instructions and carry out the computations" (Rogers 1987:2).
+ "an algorithm is a procedure for computing a function (with respect to some chosen notation for integers) ... this limitation (to numerical functions) results in no loss of generality", (Rogers 1987:1).
+ "An algorithm has zero or more inputs, i.e., quantities which are given to it initially before the algorithm begins" (Knuth 1973:5).
