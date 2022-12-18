@@ -1,0 +1,300 @@
+
+giorno 2022-12-17: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-17: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-17: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-17: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-17: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-17: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-17: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-17: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Paperini
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Paperini
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+
+giorno 2022-12-18: immagazzinamento di una nuova quantita` del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` altamente disponibile
+La vendita e` effettuata ad un nuovo acquirente
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+La vendita e` effettuata ad un nuovo acquirente
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
+
+giorno 2022-12-18: vendita del prodotto Nuterra
+c'e` stato un cambio stato delle scorte del prodotto: il nuovo stato e` disponibile
